@@ -4,6 +4,9 @@ This repository contains an end-to-end machine learning project aimed at predict
 
 ## Project Overview
 
+![WhatsApp Image 2024-11-22 at 22 25 36_ccd4bb5c](https://github.com/user-attachments/assets/b64f39a9-0427-4004-b1be-c1ddf413cb08)
+
+
 The goal of this project is to create a seamless process for predicting diabetes by building a machine learning model that analyzes various health parameters. The web application takes user input, processes the data through the model, and provides the prediction result on a new page.
 
 ## Project Objectives
